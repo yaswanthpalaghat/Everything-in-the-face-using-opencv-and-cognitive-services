@@ -1,0 +1,1 @@
+https://southeastasia.api.cognitive.microsoft.com/face/v1.0
